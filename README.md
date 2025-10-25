@@ -2,14 +2,13 @@
 ## Date:
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
-
+To create a web page to calculate vehicle mileage and fuel efficiency using server-side scripts.
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
+M = D / F
+<br> M --> Mileage (in km/l)
+<br> D --> Distance Travelled (in km)
+<br> F --> Fuel Consumed (in l)
 
 ## DESIGN STEPS:
 
@@ -31,7 +30,7 @@ Create a HTML file to implement form based input and output.
 ### Step 6:
 Publish the website in the given URL.
 
-## PROGRAM :
+## PROGRAM:
 
 
 ## SERVER SIDE PROCESSING:
