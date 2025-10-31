@@ -33,11 +33,11 @@ Publish the website in the given URL.
 ## PROGRAM:
 
 
-## SERVER SIDE PROCESSING:
+## OUTPUT - SERVER SIDE:
 
 
-## HOMEPAGE:
+## OUTPUT - WEBPAGE:
 
 
 ## RESULT:
-The program for performing server side processing is completed successfully.
+The a web page to calculate vehicle mileage and fuel efficiency using server-side scripts is created successfully.
