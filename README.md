@@ -2,13 +2,13 @@
 ## Date:
 
 ## AIM:
-To create a web page to calculate vehicle mileage and fuel efficiency using server-side scripts.
+To create a web page to calculate total bill amount with GST from price and GST percentage, using server-side scripts.
 
 ## FORMULA:
-M = D / F
-<br> M --> Mileage (in km/l)
-<br> D --> Distance Travelled (in km)
-<br> F --> Fuel Consumed (in l)
+Bill = P + (P * GST / 100)
+<br> P --> Price (in Rupees)
+<br> GST --> GST (in Percentage)
+<br> Bill --> Total Bill Amount (in Rupees)
 
 ## DESIGN STEPS:
 
