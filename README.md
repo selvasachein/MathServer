@@ -40,7 +40,7 @@ Display the calculated result in the server console.
 Render the result to the HTML template.
 
 ### Step 10:
-Publish the website in the Localhost.
+Publish the website in Localhost.
 
 ## PROGRAM:
 
