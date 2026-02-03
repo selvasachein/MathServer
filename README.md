@@ -2,7 +2,7 @@
 ## Date:
 
 ## AIM:
-To create a web page to calculate total bill amount with GST from price and GST percentage, using server-side scripts.
+To create a web page to calculate total bill amount with GST from price and GST percentage using server-side scripts.
 
 ## FORMULA:
 Bill = P + (P * GST / 100)
@@ -25,9 +25,21 @@ Create a New App under the Django Admin project.
 Create python programs for views and urls to perform server side processing.
 
 ### Step 5:
-Create a HTML file to implement form based input and output.
+Receive input values from the form using request.POST.get()
 
 ### Step 6:
+Calculate the total bill amount (including GST)
+
+### Step 7:
+Display the calculated result in the server console
+
+### Step 8:
+Render the result to the HTML template
+
+### Step 5:
+Create a HTML file to implement form based input and output.
+
+### Step 9:
 Publish the website in the given URL.
 
 ## PROGRAM:
@@ -40,4 +52,4 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-The a web page to calculate vehicle mileage and fuel efficiency using server-side scripts is created successfully.
+The a web page to calculate total bill amount with GST from price and GST percentage using server-side scripts is created successfully.
