@@ -22,25 +22,25 @@ Create Django Admin project.
 Create a New App under the Django Admin project.
 
 ### Step 4:
-Create python programs for views and urls to perform server side processing.
-
-### Step 5:
-Receive input values from the form using request.POST.get()
-
-### Step 6:
-Calculate the total bill amount (including GST)
-
-### Step 7:
-Display the calculated result in the server console
-
-### Step 8:
-Render the result to the HTML template
-
-### Step 5:
 Create a HTML file to implement form based input and output.
 
+### Step 5:
+Create python programs for views and urls to perform server side processing.
+
+### Step 6:
+Receive input values from the form using request.POST.get().
+
+### Step 7:
+Calculate the total bill amount (including GST).
+
+### Step 8:
+Display the calculated result in the server console.
+
 ### Step 9:
-Publish the website in the given URL.
+Render the result to the HTML template.
+
+### Step 10:
+Publish the website in the Localhost.
 
 ## PROGRAM:
 
